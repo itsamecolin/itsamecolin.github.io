@@ -1,14 +1,9 @@
----
-layout: default
-title: My PNP Showcase
-permalink: /pnp/
----
 
 # My PNP Showcase
 
 ## Introduction
 
-As my **PNP** (Project and Portfolio) comes to a close, it's time to reflect on the journey and share the exciting projects, skills, and learning experiences I've had throughout this period. Over the past unit, I've had the chance to experiment with various tools, learn new software, and produce prototypes that I'm proud of.
+As my **PNP project** comes to a close, here are some reflection, skills, and learning experiences I've had throughout this period. Over the past unit, I've had the chance to experiment with various tools, learn new software, and produce prototypes that I'm proud of.
 
 ### What I Did
 
@@ -42,4 +37,8 @@ I went through some formatting issues as the 3D printer and Laser cutter did not
 The PNP experience has been incredibly rewarding. It gave me the opportunity to learn and grow both as a designer and a creator. I'm proud of the prototypes I've produced and the skills I've acquired, and I look forward to applying these experiences to future projects.
 
 Thank you for taking the time to explore my journey and projects!
+
+
+https://github.com/user-attachments/assets/8f15ad46-5f48-487f-95e1-7419e2947bce
+
 
