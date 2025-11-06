@@ -52,5 +52,9 @@ https://github.com/user-attachments/assets/8f15ad46-5f48-487f-95e1-7419e2947bce
 As I explore this unit with the VR in the library, more specifically the Metaquest pro. I first had to reasearch what the VR was and how it worked. This can all be seen in my Slide show below.
 https://docs.google.com/presentation/d/1SXVHj5vRYXLas2a0Mw8M58fmu02wPxs3mb09bERr2qg/edit?usp=sharing
 
+## Showcase
+
+After Learning more and more about the VR headset I really wanted to become a more hands on expert. This is where I came up with the idea of importing projects from outside of class into the VR world for viewing. This can all be done with the help of Gravity Sketch which is a software which can be accessed with the headset and computer which allow 3D design to flourish. With the projects from blender thanks to students in Media Arts I can transform there design into real life.
+
 
 
