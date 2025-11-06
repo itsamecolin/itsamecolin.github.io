@@ -58,5 +58,9 @@ https://docs.google.com/presentation/d/1SXVHj5vRYXLas2a0Mw8M58fmu02wPxs3mb09bERr
 
 After Learning more and more about the VR headset I really wanted to become a more hands on expert. This is where I came up with the idea of importing projects from outside of class into the VR world for viewing. This can all be done with the help of Gravity Sketch which is a software which can be accessed with the headset and computer which allow 3D design to flourish. With the projects from blender thanks to students in Media Arts I can transform there design into real life.
 
+![OIP](https://github.com/user-attachments/assets/3c5781fe-3206-4611-b516-0993c7934e08)
 
+### Conclusion
+
+After all this I still believe I have a lot of room to expand my knowledge of the capabilities of VR which can be done by asking experts like Dr.Bikeman and Ms. Billy however for now I want to be able to inspire other students to explore tools like the VR in the library and for me to be able to provide assistance to any students that require assistance.
 
