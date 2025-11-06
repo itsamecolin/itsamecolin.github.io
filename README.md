@@ -51,6 +51,8 @@ https://github.com/user-attachments/assets/8f15ad46-5f48-487f-95e1-7419e2947bce
 
 As I explore this unit with the VR in the library, more specifically the Metaquest pro. I first had to reasearch what the VR was and how it worked. This can all be seen in my Slide show below.
 https://docs.google.com/presentation/d/1SXVHj5vRYXLas2a0Mw8M58fmu02wPxs3mb09bERr2qg/edit?usp=sharing
+![download](https://github.com/user-attachments/assets/f69aeb03-a3f8-4ee5-a684-cb01c80d7404)
+
 
 ## Showcase
 
