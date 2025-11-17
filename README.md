@@ -64,3 +64,9 @@ After Learning more and more about the VR headset I really wanted to become a mo
 
 After all this I still believe I have a lot of room to expand my knowledge of the capabilities of VR which can be done by asking experts like Dr.Bikeman and Ms. Billy however for now I want to be able to inspire other students to explore tools like the VR in the library and for me to be able to provide assistance to any students that require assistance.
 
+# Sensor Prototype and Calibration
+
+In our next unit in Tech Sem we work on using the Arduino Kit and the sensor. The first step to this is the calibration. For this particular project we used the GP2Y0A21YK0F (https://global.sharp/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf) and used the graph provided to calibrate the sensor. We did this by sketching a power regression in desmos and plugging it into our code.
+<img width="629" height="819" alt="Screenshot 2025-11-16 201535" src="https://github.com/user-attachments/assets/d528f974-1422-4025-98cf-015784540fbf" />
+
+
