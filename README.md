@@ -66,9 +66,13 @@ After all this I still believe I have a lot of room to expand my knowledge of th
 
 # Sensor Prototype and Calibration
 
-In our next unit in Tech Sem we work on using the Arduino Kit and the sensor. The first step to this is the calibration. For this particular project we used the GP2Y0A21YK0F (https://global.sharp/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf) and used the graph provided to calibrate the sensor. We did this by sketching a power regression in desmos and plugging it into our code.
+In our next unit in Tech Sem we work on using the Arduino Kit and the sensor. The first step to this is the calibration. For this particular project we used the GP2Y0A21YK0F (https://global.sharp/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf) and used the graph provided to calibrate the sensor. We did this by sketching a power regression in desmos and plugging it into our code. Some struggles that went through was actually finding the which graph to use and also the innacuracy of our plotting. To get through that after coding we did some hands on calibration with a ruler and tried to make it as accurate as possible.
 <img width="629" height="819" alt="Screenshot 2025-11-16 201535" src="https://github.com/user-attachments/assets/d528f974-1422-4025-98cf-015784540fbf" />
 ![IMG_1895](https://github.com/user-attachments/assets/e92c62a3-e286-4ab7-85dc-4d6984548f6b)
 ![IMG_1894](https://github.com/user-attachments/assets/6ea0a0ed-97ef-415c-ae7b-cd1d70710999)
 
+## Adding Stepper Motor
 
+Our next step was to add a stepper motor as our eventual goal by the end of the project is to use the sensor to and be able to generate a 3d model of and object in the digital world. But why are we using a stepper motor? Firstly to get 3d model the sensor must be able to get a full layout of the object. Thus using the stepper motor we can move the object 360 degrees so the sensor can see the whole object. The sensor is also stationary so with the stepper motor we can move it around. Honestly a big hardship we had was unscrewing the bit but we got throught that using brute force.
+
+![IMG_1908](https://github.com/user-attachments/assets/7fa246a3-1de2-4496-a25c-61f9928284ee)
