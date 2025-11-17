@@ -7,7 +7,7 @@ My inspiration and ambition to work stems from my want to create, improve and in
 
 # My PNP Showcase
 
-## Introduction
+## Introduction  
 
 As my **PNP project** comes to a close, here are some reflection, skills, and learning experiences I've had throughout this period. Over the past unit, I've had the chance to experiment with various tools, learn new software, and produce prototypes that I'm proud of.
 
@@ -68,5 +68,7 @@ After all this I still believe I have a lot of room to expand my knowledge of th
 
 In our next unit in Tech Sem we work on using the Arduino Kit and the sensor. The first step to this is the calibration. For this particular project we used the GP2Y0A21YK0F (https://global.sharp/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf) and used the graph provided to calibrate the sensor. We did this by sketching a power regression in desmos and plugging it into our code.
 <img width="629" height="819" alt="Screenshot 2025-11-16 201535" src="https://github.com/user-attachments/assets/d528f974-1422-4025-98cf-015784540fbf" />
+![IMG_1895](https://github.com/user-attachments/assets/e92c62a3-e286-4ab7-85dc-4d6984548f6b)
+![IMG_1894](https://github.com/user-attachments/assets/6ea0a0ed-97ef-415c-ae7b-cd1d70710999)
 
 
