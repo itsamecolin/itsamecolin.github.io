@@ -73,6 +73,13 @@ In our next unit in Tech Sem we work on using the Arduino Kit and the sensor. Th
 
 ## Adding Stepper Motor
 
-Our next step was to add a stepper motor as our eventual goal by the end of the project is to use the sensor to and be able to generate a 3d model of and object in the digital world. But why are we using a stepper motor? Firstly to get 3d model the sensor must be able to get a full layout of the object. Thus using the stepper motor we can move the object 360 degrees so the sensor can see the whole object. The sensor is also stationary so with the stepper motor we can move it around. Honestly a big hardship we had was unscrewing the bit but we got throught that using brute force.
+Our next step was to add a stepper motor as our eventual goal by the end of the project is to use the sensor to and be able to generate a 3d model of and object in the digital world. But why are we using a stepper motor? Firstly to get 3d model the sensor must be able to get a full layout of the object. Thus using the stepper motor we can move the object 360 degrees sNo the sensor can see the whole object. The sensor is also stationary so with the stepper motor we can move it around. Honestly a big hardship we had was unscrewing the bit but we got throught that using brute force.
 
 ![IMG_1908](https://github.com/user-attachments/assets/7fa246a3-1de2-4496-a25c-61f9928284ee)
+
+### Jesus nut
+
+Thanks to Mr. Raus thinking we were able to implement something called a jesus nut to connect the seccond motor and the sensor. This was a little difficult as our initial design was to small which did not allow us to screw the motor fully. This was a quick fast as Patrick and I just changed some measurements around which fitted our stepper motor.
+https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751518a2/e/096d56956121a3f4e40c67af
+<img width="884" height="642" alt="Screenshot 2025-12-17 224711 (1)" src="https://github.com/user-attachments/assets/6da39850-bdcf-4533-b609-da8fa14936cc" />
+
