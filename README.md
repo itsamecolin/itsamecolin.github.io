@@ -89,3 +89,10 @@ After getting the proper parts and sizing we moved onto the assembling aspect of
 
 <img width="454" height="493" alt="Screenshot 2025-12-17 225643" src="https://github.com/user-attachments/assets/3b4a003e-7a37-4dac-81ed-969c548f206c" />
 
+## Getting Reading
+
+After the assembling of all materials we needed to test the sensor and Patrick who is good with coding was able to get to work and have a visual representation.
+
+
+
+
