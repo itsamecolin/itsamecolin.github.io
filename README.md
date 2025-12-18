@@ -77,7 +77,7 @@ Our next step was to add a stepper motor as our eventual goal by the end of the 
 
 ![IMG_1908](https://github.com/user-attachments/assets/7fa246a3-1de2-4496-a25c-61f9928284ee)
 
-### Jesus nut
+## Jesus Nut
 
 Thanks to Mr. Raus thinking we were able to implement something called a jesus nut to connect the seccond motor and the sensor. This was a little difficult as our initial design was to small which did not allow us to screw the motor fully. This was a quick fast as Patrick and I just changed some measurements around which fitted our stepper motor.
 https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751518a2/e/096d56956121a3f4e40c67af
