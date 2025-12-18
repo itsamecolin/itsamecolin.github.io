@@ -83,11 +83,16 @@ Thanks to Mr. Raus thinking we were able to implement something called a jesus n
 https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751518a2/e/096d56956121a3f4e40c67af
 <img width="884" height="642" alt="Screenshot 2025-12-17 224711 (1)" src="https://github.com/user-attachments/assets/6da39850-bdcf-4533-b609-da8fa14936cc" />
 
+## Pre Assembly
+
+
+
 ## Assembling
 
 After getting the proper parts and sizing we moved onto the assembling aspect of this project. As seen by the photo below we can see all the parts connected by the Jesus Nut. 
 
 <img width="454" height="493" alt="Screenshot 2025-12-17 225643" src="https://github.com/user-attachments/assets/3b4a003e-7a37-4dac-81ed-969c548f206c" />
+
 
 ## Getting Reading
 
