@@ -95,4 +95,8 @@ After the assembling of all materials we needed to test the sensor and Patrick w
 
 
 
+https://github.com/user-attachments/assets/8e7577e5-ec0c-4dbb-8963-4f0fc3defabd
+
+
+
 
