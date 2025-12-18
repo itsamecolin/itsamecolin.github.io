@@ -77,14 +77,20 @@ Our next step was to add a stepper motor as our eventual goal by the end of the 
 
 ![IMG_1908](https://github.com/user-attachments/assets/7fa246a3-1de2-4496-a25c-61f9928284ee)
 
+## Reflection One
+
+Throughout this first part of this project I worked with Charlie but due to him having to work on his Blue Bird project I was left with no partner. After mingling for a while and just providing as much support to my classmates as possible I ended up working with Patrick in the later portions of the project and his vast knowledge on coding which provided very useful for this project. Personally where I fit in this project was someone who helped with more of the physical components of the project and also as someone who is good at communication, asking questions from other groups like Thomas and Kayden's about things that they were doing better such as microstepping.
+
 ## Jesus Nut
 
-Thanks to Mr. Raus thinking we were able to implement something called a jesus nut to connect the seccond motor and the sensor. This was a little difficult as our initial design was to small which did not allow us to screw the motor fully. This was a quick fast as Patrick and I just changed some measurements around which fitted our stepper motor.
+Thanks to Mr. Raus thinking we were able to implement something called a jesus nut to connect the seccond motor and the sensor. This was a little difficult as our initial design was to small which did not allow us to screw the motor fully. This was a quick fast as Patrick and I just changed some measurements around which fitted our stepper motor. The picture below is not the Jesus nut but actually the first rendition on how to connect the motor to the sensor.
+
 https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751518a2/e/096d56956121a3f4e40c67af
 <img width="884" height="642" alt="Screenshot 2025-12-17 224711 (1)" src="https://github.com/user-attachments/assets/6da39850-bdcf-4533-b609-da8fa14936cc" />
 
 ## Pre Assembly
 
+The picture below is the actual Jesus nut which works by using screws and bolts to connecto the sensors and stepper motors together. This was a very convenient way to get them together however it took a brief while of 
 
 
 ## Assembling
