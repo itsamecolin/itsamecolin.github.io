@@ -98,5 +98,9 @@ After the assembling of all materials we needed to test the sensor and Patrick w
 https://github.com/user-attachments/assets/8e7577e5-ec0c-4dbb-8963-4f0fc3defabd
 
 
+## Whats Next
+
+I think for the final leap forward is a base that holds the motor down as their is a significant inbalance due to the way the motor is placed. This is why for next class I want to finish making the base and finish this project.
+
 
 
