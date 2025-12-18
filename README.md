@@ -86,5 +86,6 @@ https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751
 ## Assembling
 
 After getting the proper parts and sizing we moved onto the assembling aspect of this project. As seen by the photo below we can see all the parts connected by the Jesus Nut. 
+
 <img width="454" height="493" alt="Screenshot 2025-12-17 225643" src="https://github.com/user-attachments/assets/3b4a003e-7a37-4dac-81ed-969c548f206c" />
 
