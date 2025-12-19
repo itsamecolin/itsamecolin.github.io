@@ -88,25 +88,33 @@ Thanks to Mr. Raus thinking we were able to implement something called a jesus n
 https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751518a2/e/096d56956121a3f4e40c67af
 <img width="884" height="642" alt="Screenshot 2025-12-17 224711 (1)" src="https://github.com/user-attachments/assets/6da39850-bdcf-4533-b609-da8fa14936cc" />
 
-## Pre Assembly
+## Assembly
 
 The picture below is the actual Jesus nut which works by using screws and bolts to connecto the sensors and stepper motors together. This was a very convenient way to get them together however it took a brief while of building for it to complete. Our initial build was a little lazy as after starting up the motor and running the code it kept vibrating which was due to the screws not being tight enough. After tightening the screws it worked better. From that experience I realize how important it is to not be lazy and cut corners especially when working on a project like this.
 
 
-## Assembling
+## Micro Stepping
 
-After getting the proper parts and sizing we moved onto the assembling aspect of this project. As seen by the photo below we can see all the parts connected by the Jesus Nut. 
+After the assembly the motor still had little pauses and interuptions so with Mr. Raus's help and other groups we were introduced to microstepping where we implemented a 1/16. This helped the motor to move smoother and have less interuptions while turning.  
 
 <img width="454" height="493" alt="Screenshot 2025-12-17 225643" src="https://github.com/user-attachments/assets/3b4a003e-7a37-4dac-81ed-969c548f206c" />
 
 
 ## Getting Reading
 
-After the assembling of all materials we needed to test the sensor and Patrick who is good with coding was able to get to work and have a visual representation.
+After the assembling of all materials we needed to test the sensor and Patrick who is good with coding was able to get to work and generated a visual representation however it wasn't to accurate and had to many outlier points.
 
 
 
 https://github.com/user-attachments/assets/8e7577e5-ec0c-4dbb-8963-4f0fc3defabd
+
+## Fixing Code
+
+After this small set back Patrick and I found away to get rid of the outlier points and also set a maximum radius of 80cm as according to the graph for calibrating the sensor after 80cm the readings become inconsistent. From the photo you can see below this is the objects we scanned and also the data we recieved.
+
+<img width="774" height="389" alt="Screenshot 2025-12-18 204608" src="https://github.com/user-attachments/assets/9ba409bd-974b-4c6d-a69a-3b4e368882b8" />
+<img width="423" height="420" alt="Screenshot 2025-12-18 204601" src="https://github.com/user-attachments/assets/24846901-1572-4b8e-a18a-50d7186e9e55" />
+
 
 
 ## Whats Next
