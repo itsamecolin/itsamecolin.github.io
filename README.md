@@ -117,9 +117,9 @@ After this small set back Patrick and I found away to get rid of the outlier poi
 
 
 
-## Whats Next
+## Reflection
 
-I think for the final leap forward is a base that holds the motor down as their is a significant inbalance due to the way the motor is placed. This is why for next class I want to finish making the base and finish this project.
+For a final reflection this project and semester their are somethigs that I did good like communicating with other groups to get their insight and also doing more of the hands on stuff such as the actual assembly however their are things I can improve on. The things I want to improve on next semester is learning more of the technical side of tech and innovation seminar such as more work on coding and some more fine tuning on my Cading skill on onshape.
 
 
 
