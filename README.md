@@ -90,7 +90,7 @@ https://cad.onshape.com/documents/24de710fb460aed6332aff18/w/6946f28ecfb53cc8751
 
 ## Pre Assembly
 
-The picture below is the actual Jesus nut which works by using screws and bolts to connecto the sensors and stepper motors together. This was a very convenient way to get them together however it took a brief while of 
+The picture below is the actual Jesus nut which works by using screws and bolts to connecto the sensors and stepper motors together. This was a very convenient way to get them together however it took a brief while of building for it to complete. Our initial build was a little lazy as after starting up the motor and running the code it kept vibrating which was due to the screws not being tight enough. After tightening the screws it worked better. From that experience I realize how important it is to not be lazy and cut corners especially when working on a project like this.
 
 
 ## Assembling
