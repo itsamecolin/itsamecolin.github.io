@@ -124,11 +124,25 @@ For a final reflection this project and semester their are somethigs that I did 
 
 # Stake Holder Project
 
+## Interview
+<img width="286" height="429" alt="Screenshot 2026-01-20 132335" src="https://github.com/user-attachments/assets/662c0d43-2309-4ee8-9f14-caa92d7f6ffc" />
+
+I had a quick interview my friend Finn and as we all did and some of the things we talked about were:
+
+•  Lack of Sleep 
+• Lack of motivation
+• Help with Organization
+• Getting a Job
+• Athletics and How it conflicts with school
+
+[W Baseline Rd 19.mp3](https://github.com/user-attachments/files/24749900/W.Baseline.Rd.19.mp3
+
+
 ## Finding the Problem
 
 Firstly I had to identify the problem which I pin pointed by talking to my stakeholder Finnegan where we identified the problem which was organization. After talking for a while I thought of how under utilized the Webb Planners are and how the Webb athletics on SIS do not have accurate times. 
 
-[W Baseline Rd 19.mp3](https://github.com/user-attachments/files/24749900/W.Baseline.Rd.19.mp3
+<img width="731" height="540" alt="Screenshot 2026-01-20 132520" src="https://github.com/user-attachments/assets/7aa04d43-def8-4527-8507-00d203e6c78f" />
 
 
 <img width="933" height="508" alt="Screenshot 2026-01-20 122857" src="https://github.com/user-attachments/assets/6362680a-01ea-443f-9455-39e35566d8c8" />
