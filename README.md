@@ -130,9 +130,13 @@ For a final reflection this project and semester their are somethigs that I did 
 I had a quick interview my friend Finn and as we all did and some of the things we talked about were:
 
 •  Lack of Sleep 
+
 • Lack of motivation
+
 • Help with Organization
+
 • Getting a Job
+
 • Athletics and How it conflicts with school
 
 [W Baseline Rd 19.mp3](https://github.com/user-attachments/files/24749900/W.Baseline.Rd.19.mp3
