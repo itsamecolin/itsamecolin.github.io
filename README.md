@@ -145,6 +145,9 @@ After identifying the problem I spent the next class working on prototypes where
 ## How
 
 After finalizing the plan I worked heavily on the code. I initially used GitHub to make a website however I switched to Replit which I beleived was more beginner friendly and in all easier for developing my end goal. 
+
+<img width="1642" height="533" alt="Screenshot 2026-01-20 131559" src="https://github.com/user-attachments/assets/7f0c379e-8625-4b03-8924-8bb01ed1602c" />
+
 ### Problems and Challenges
 
 Most of my challenges came with how the Webb classes are formatted into blocks that changes every week so to combat that instead of having periods like other schools I first had to code what the blocks looked like at Webb and them only having three classes a day.
