@@ -122,4 +122,30 @@ After this small set back Patrick and I found away to get rid of the outlier poi
 For a final reflection this project and semester their are somethigs that I did good like communicating with other groups to get their insight and also doing more of the hands on stuff such as the actual assembly however their are things I can improve on. The things I want to improve on next semester is learning more of the technical side of tech and innovation seminar such as more work on coding and some more fine tuning on my Cading skill on onshape.
 
 
+# Stake Holder Project
+
+## Finding the Problem
+
+Firstly I had to identify the problem which I pin pointed by talking to my stakeholder Finnegan where we identified the problem which was organization. After talking for a while I thought of how under utilized the Webb Planners are and how the Webb athletics on SIS do not have accurate times. 
+
+[W Baseline Rd 19.mp3](https://github.com/user-attachments/files/24749900/W.Baseline.Rd.19.mp3
+
+
+<img width="933" height="508" alt="Screenshot 2026-01-20 122857" src="https://github.com/user-attachments/assets/6362680a-01ea-443f-9455-39e35566d8c8" />
+
+## What 
+
+After identifying the problem I spent the next class working on prototypes where I was just thinking of solutions. I ended up just choosing the medium tech option of a digital planner.
+
+
+<img width="442" height="596" alt="Screenshot 2026-01-20 123346" src="https://github.com/user-attachments/assets/5efa4105-4848-4f85-81c2-2489e453b1a3" />
+
+<img width="510" height="696" alt="Screenshot 2026-01-20 123325" src="https://github.com/user-attachments/assets/92e536cc-f7c2-4e2f-935d-0dd39b4e7f39" />
+
+
+
+
+
+
+
 
