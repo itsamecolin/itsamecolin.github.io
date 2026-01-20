@@ -144,7 +144,15 @@ After identifying the problem I spent the next class working on prototypes where
 
 ## How
 
-After finalizing the plan I was 
+After finalizing the plan I worked heavily on the code. I initially used GitHub to make a website however I switched to Replit which I beleived was more beginner friendly and in all easier for developing my end goal. 
+### Problems and Challenges
+
+Most of my challenges came with how the Webb classes are formatted into blocks that changes every week so to combat that instead of having periods like other schools I first had to code what the blocks looked like at Webb and them only having three classes a day.
+
+### What is Next
+
+I still want it to be more user friendly for Webb students as currently you still need to input your classes and what block they are. In the future I want the classes to be preset with their locations already available. I also want to find a way where I can add activities in between blocks like chapel, advisory and meetings.
+
 
 
 
