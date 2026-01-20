@@ -142,6 +142,10 @@ After identifying the problem I spent the next class working on prototypes where
 
 <img width="510" height="696" alt="Screenshot 2026-01-20 123325" src="https://github.com/user-attachments/assets/92e536cc-f7c2-4e2f-935d-0dd39b4e7f39" />
 
+## How
+
+After finalizing the plan I was 
+
 
 
 
