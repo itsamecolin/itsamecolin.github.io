@@ -174,6 +174,22 @@ Most of my challenges came with how the Webb classes are formatted into blocks t
 
 I still want it to be more user friendly for Webb students as currently you still need to input your classes and what block they are. In the future I want the classes to be preset with their locations already available. I also want to find a way where I can add activities in between blocks like chapel, advisory and meetings.
 
+#Project Cycle 1
+
+In this project cycle I worked on fine tooning the issues with my website and finally developing a functioning site that has the ability to be used by Webb students as i got the code to function with Webbs rotating blocks.
+
+<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/ec7680a7-3348-4094-adf0-e85ba4eeae41" />
+
+##Outside Help
+
+After getting the basic premise of the app working I looked towards Ms. Tirpak for further assistance. After a bit she was able to send me the all of Webbs classes information which includes the blocks teacher and location.
+
+##Whats next.
+
+After working more in this and getting the informatiob into my app I want to start testing a beta version of the site and providing other students the oppurtunity to test out the new site and give feedback.
+
+
+
 
 
 
