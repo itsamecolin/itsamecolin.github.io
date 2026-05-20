@@ -190,7 +190,9 @@ After working more in this and getting the information into my app I want to sta
 
 # Project Cycle 2
 
-After a short break I have returned to this project and have fully finished the beta version of my websiite. The major advancements I have made during this project cycle 
+Website: https://webb-schedule--colinleung6.replit.app/
+
+After a short break I have returned to this project and have fully finished the beta version of my websiite. The major advancements I have made during this project cycle would be Canvas and having it show the assignments of each student. Another thing would be the login screen that pops up right as you open the website. This allows the data to be diffrentiated and saved between users. Other then that I had to do a lot of debugging.
 
 
 
