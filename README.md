@@ -186,11 +186,11 @@ After getting the basic premise of the app working I looked towards Ms. Tirpak f
 
 ## Whats next.
 
-After working more in this and getting the informatiob into my app I want to start testing a beta version of the site and providing other students the oppurtunity to test out the new site and give feedback.
+After working more in this and getting the information into my app I want to start testing a beta version of the site and providing other students the oppurtunity to test out the new site and give feedback.
 
+# Project Cycle 2
 
-
-
+After a short break I have returned to this project and have fully finished the beta version of my websiite. The major advancements I have made during this project cycle 
 
 
 
