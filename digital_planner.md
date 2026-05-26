@@ -71,3 +71,41 @@ After working more in this and getting the information into my app I want to sta
 Website: https://webb-schedule--colinleung6.replit.app/
 
 After a short break I have returned to this project and have fully finished the beta version of my websiite. The major advancements I have made during this project cycle would be Canvas and having it show the assignments of each student. Another thing would be the login screen that pops up right as you open the website. This allows the data to be diffrentiated and saved between users. Other then that I had to do a lot of debugging.
+
+## CANVAS API
+
+https://developerdocs.instructure.com/services/canvas
+
+This website above allowed me to add the Canvas section into my website. This took a lot of work and struggle however with the work of AI I was eventually able to add it into my website. The way it work is you need an individual token which can be generated through canvas when requested. This allows my website to connect 
+to your canvas page automize what tasks need to be done by importance and also be able to be added to the digital schedule for easy tracking.
+<img width="840" height="591" alt="image" src="https://github.com/user-attachments/assets/afa350b7-69db-4f0f-8101-195afab57726" />
+
+## DEBUGGING
+
+I had to debug my website by checking what was not working correctly and fixing the schedule section. Instead of leaving the schedule broken or confusing, I uploaded the schedule again and edited it manually so the information was accurate and organized.
+
+## Login Page
+
+Adding Google login to my Replit website is useful because it makes signing into the site much faster, easier, and more secure for users. Instead of creating and remembering a separate password, users can log in with an account they already use every day. It also helps improve the professionalism of the website while reducing the risk of weak passwords or fake accounts. Unfourtanetly I was unable to use my microsoft login due to security reasons with the school. Overall this is useful so all data is stored per user
+
+<img width="439" height="370" alt="image" src="https://github.com/user-attachments/assets/f10bfd6f-b643-4e97-84fa-252d938edd18" />
+
+## USC TRIP
+Our class went to a trip to USC where we met students that were also working on their own individual projects. This was all very interesting to hear and this is some feedback I recieved.
+
+One strength of the project already (kudos, compliment, interest, etc):
+Super interesting that you used replit to create this - interface looks great and this idea of personalized scheduling for your school seems super useful
+Good job contextualizing your presentation at the start (ie explaining the course blocking). Really cool that the Canvas is attached as well!
+Coming from a high school that also had a unique schedule system, I can attest that this would be a high-demand tool if finalized. When I was an undergraduate student, someone made a similar tool to help navigate the course registration process, and I have heard that it still sees use nearly 10 years later!
+
+One place to focus to develop the project well:
+Any pitfalls you experienced using replit? A lot of product managers in industry are starting to use tools like these - it would be great to discuss concerns around debugging, and transparency with this platform.
+If you had visuals to illustrate what the rotating block schedule looks like at the start of your presentation, that would be great to include! I would also communicate what sort of technical skills you had to leverage to make your webpage.
+I briefly saw functionality for designating assignments with certain priorities. Are these priorities automatically determined by deadline, or are there ways for an end used to manually create their own priorities? (Perhaps I have an assignment due on a certain day, but I want to plan to finish it the day before to leave more time for other tasks)
+
+Questions and/or comments for the presenter:
+Did you have to manually add in the school and block schedule? Or did you use APIs to call in the data programatically? 
+
+## WHATS NEXT
+
+I will definetely be connecting with students like Shivi and Harry who had similar projects and asking for feedback I am excited to see what happens next in my future Harvey Mudd class and I am excited to develop my knowledge
